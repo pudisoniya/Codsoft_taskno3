@@ -1,17 +1,27 @@
 PROJECT SUMMARY
+
 Name: Pudi Soniya
+
 Company: CodSoft
+
 Batch: June Batch B31
+
 Domain: Web Development
+
 Course Duration: 01–30 June 2025
+
 Project Name: Basic Calculator
+
 Technology Used: HTML, CSS, JavaScript
 
 Project Overview: Basic Calculator
+
 "C:\Users\pudis\Pictures\Screenshots\Screenshot (6).png"
+
 This project is a simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Code Breakdown
+
 HTML (Structure):
 
 Defines the layout with an input field to display results.
