@@ -16,6 +16,7 @@ Technology Used: HTML, CSS, JavaScript
 
 Project Overview: Basic Calculator
 
+Output:
 ![Image](https://github.com/user-attachments/assets/fb51cea7-e4e8-4cf6-8f13-f9d9b58aa009) 
 
 This project is a simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
